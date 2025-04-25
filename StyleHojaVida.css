@@ -1,0 +1,28 @@
+* { /* El * es para que afecte todo */
+    font-family: 'Montserrat', sans-serif; /* Fuente de la página */
+}
+body {
+    background-color: #ffffff; /* Color de fondo */
+    font-family: Arial, sans-serif; /* Fuente del texto */
+    line-height: 1.7; /* Espaciado entre líneas */
+}
+.bg-primary {
+    background-color: #6c6587 !important; /* important es para decir que es la clase principal */
+
+}
+img{
+    max-width: 50%; /* Ancho máximo de la imagen */
+    height: auto; /* Altura automática para mantener la proporción */
+}
+.progress {
+    background-color: rgba(250,255,255,0.2); /* Color de fondo de la barra de progreso */
+    border-radius: 20px; /* Bordes redondeados */
+    height: 20px; /* Altura de la barra de progreso */
+}
+.Titulo, .ColorEducacion {
+    color: #6c6587; /* Color de la barra de progreso */
+    font-family: Georgia, 'Times New Roman', Times, serif; /* Para cambiar la fuente */
+}
+.bg-secundary {
+    background-color: #e4e4e4 !important; /* Color de fondo */
+}
