@@ -7,7 +7,7 @@ body {
     line-height: 1.7; /* Espaciado entre líneas */
 }
 .bg-primary {
-    background-color: #6c6587 !important; /* important es para decir que es la clase principal */
+    background-color: #908b8b !important; /* important es para decir que es la clase principal */
 
 }
 img{
@@ -25,4 +25,7 @@ img{
 }
 .bg-secundary {
     background-color: #e4e4e4 !important; /* Color de fondo */
+}
+.colorBarra {
+    background-color: #ffffff !important; /* Color de la barra de progreso */
 }
