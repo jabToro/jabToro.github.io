@@ -31,7 +31,7 @@ img{
 }
 /* estilos de las cards */
 .card {
-    transition: transfomr 0.10s ease, box-shadow 0.10s ease; /* Efecto de transformación */
+    transition: transform 0.1s ease, box-shadow 0.1s ease; /* Efecto de transformación */
 }
 .card:hover {
     
