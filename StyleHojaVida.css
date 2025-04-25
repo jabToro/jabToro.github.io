@@ -29,3 +29,12 @@ img{
 .colorBarra {
     background-color: #ffffff !important; /* Color de la barra de progreso */
 }
+/* estilos de las cards */
+.card {
+    transition: transfomr 0.10s ease, box-shadow 0.10s ease; /* Efecto de transformación */
+}
+.card:hover {
+    
+    transform: translateY(-5px); /* Efecto de desplazamiento al pasar el mouse */
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0, 1); /* Sombra de la card */ 
+}
